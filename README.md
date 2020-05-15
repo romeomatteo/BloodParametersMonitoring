@@ -17,7 +17,7 @@ Before running the application, create a `config.json` with the following fields
 }
 ```
 
-To run the scraper execute the python script `blook_esams_scraper.py`
+To run the scraper execute the python script `blook_exams_scraper.py`
 
 To run the bokeh application, run in your console 
 
