@@ -5,6 +5,10 @@ It consits of a:
 1. Bokeh application
 2. Web scraper to download the latest blood exam (configurable through the `config.json` file) 
 
+The list of requirement in the `requirements.txt`. The suggestion is to install them in a new environments running 
+```shell script
+pip install -r requirements.txt
+``` 
 
 Before running the application, create a `config.json` with the following fields and place it in the home directory:
 
@@ -24,6 +28,5 @@ To run the bokeh application, run in your console
 ```shell script
 bokeh serve --show main.py
 ```
-
 
 
