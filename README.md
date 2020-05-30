@@ -6,7 +6,7 @@ It consits of a:
 2. Web scraper to download the latest blood exam (configurable through the `config.json` file) 
 
 
-Before running the application, create a `config.json` with the following fields and place in in the home directory:
+Before running the application, create a `config.json` with the following fields and place it in the home directory:
 
 ```json
 {
