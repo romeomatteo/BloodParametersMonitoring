@@ -5,7 +5,7 @@ It consits of a:
 1. Bokeh application
 2. Web scraper to download the latest blood exam (configurable through the `config.json` file) 
 
-The list of requirement in the `requirements.txt`. The suggestion is to install them in a new environments running 
+The list of requirement in the [requirements.txt](requirements.txt). The suggestion is to install them in a new environments running 
 ```shell script
 pip install -r requirements.txt
 ``` 
@@ -21,7 +21,7 @@ Before running the application, create a `config.json` with the following fields
 }
 ```
 
-To run the scraper execute the python script `blook_exams_scraper.py`
+To run the scraper execute the python script [blook_exams_scraper.py](blood_exams_scraper.py)
 
 To run the bokeh application, run in your console 
 
