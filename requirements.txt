@@ -151,7 +151,7 @@ pylint==2.4.4
 pyodbc===4.0.0-unsupported
 pyOpenSSL==19.1.0
 pyparsing==2.4.6
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pyrsistent==0.15.7
 PySocks==1.7.1
 pytest==5.3.5
